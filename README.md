@@ -1,5 +1,5 @@
-  # TEALS-
-
+  # TEALS(Level 1 Heading)
+https://mybinder.org/v2/gh/Jalucky/TEALS/HEAD
   This is my repo for **Introduction to software Technologies**! 
   
   ##Second level Header
